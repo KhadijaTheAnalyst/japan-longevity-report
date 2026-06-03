@@ -30,6 +30,12 @@ values used here are rounded and cross-checked across the references below.
 - Miyagi, Iwama, Kawabata, Hasegawa (2003) — *Longevity and Diet in Okinawa, Japan: The Past, Present and Future*: https://journals.sagepub.com/doi/10.1177/101053950301500s03
 - Okinawa Centenarian Study (Dr. Makoto Suzuki, since 1975) — world's longest-running centenarian study
 
+## Luxembourg comparison
+- World Economics — Luxembourg Life Expectancy (~82.5 yrs): https://www.worldeconomics.com/Demographics/Life-Expectancy/Luxembourg.aspx
+- chronicle.lu / OECD — Luxembourg ranks 7th for life expectancy (83.4 yrs in 2023; smallest OECD gender gap): https://chronicle.lu/category/surveys-reports/57929-luxembourg-ranks-7th-for-life-expectancy-in-new-oecd-health-report
+- World Bank — Life expectancy at birth, male, Luxembourg (76.4): https://data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LU
+- WHO Data — Luxembourg country profile: https://data.who.int/countries/442
+
 ## Notes on accuracy
 - "Overall 84.8 years" is the population average; women (87.1) and men (81.1) are reported separately by MHLW.
 - The "~5 year gap vs the US" derives from comparing Japan (~84.8) and the US (~80.0).

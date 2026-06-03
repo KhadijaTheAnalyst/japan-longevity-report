@@ -11,6 +11,22 @@ _Compiled June 2026 using 2025 figures._
 - Longevity is driven by a reinforcing system: traditional diet, universal preventive healthcare, active daily life, portion culture (*hara hachi bu*), and strong community/purpose (*ikigai*, *moai*).
 - Caveats: diets are westernizing, traditional food is high in salt, and the aging population strains pensions and care. Migrant studies show lifestyle outweighs genetics.
 
+## Spotlight: Japan vs. Luxembourg
+
+| | Japan | Luxembourg |
+|---|---|---|
+| Overall | ~84.8 yrs | ~82.5 yrs |
+| Women | 87.1 | 83.1 |
+| Men | 81.1 | 76.4 |
+
+Japan leads by roughly 2–2.5 years overall, with the widest gap among men.
+The two countries get there differently: Luxembourg's longevity is largely a
+wealth-and-healthcare story (very high per-capita health spending and access),
+while Japan reaches higher life expectancy on much lower spending, driven by
+diet and lifestyle — the "spending paradox." Luxembourg's gender gap (~3.3 yr)
+is among the smallest in the OECD, versus ~6 years in Japan. Note: Luxembourg's
+small population makes its figures swing more year to year (±0.5 yr by source).
+
 ## Repository structure
 ```
 japan-longevity-report/
