@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Build / temp
+*.pdf
+slide-*.jpg
+qa*.jpg
+node_modules/
+*.log
+
+# Editor
+.vscode/
+.idea/
